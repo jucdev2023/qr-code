@@ -12,6 +12,7 @@ main {
     background-color: grey;
     height: 100vh;
     position: relative;
+    width: 100vw;
   }
   .container {
     position: absolute;
