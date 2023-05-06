@@ -64,6 +64,6 @@ main {
 
   img {
     text-align: center;
-    width: 400px;
-    height: 390px;
+    max-width: 390px;
+    height: 380px;
   }
